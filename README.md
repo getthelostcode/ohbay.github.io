@@ -11,7 +11,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点订阅  
 - `https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2`  
 ## 更多v2ray节点订阅  
-高性价比机场推荐：[欢乐海岸]()
+高性价比机场推荐：[欢乐海岸](https://user8.ip2.one/)
 
 ### [欢乐海岸]() — 最佳机场之选、可免账号观看奈飞、迪士尼
 
